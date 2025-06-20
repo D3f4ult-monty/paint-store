@@ -1,0 +1,359 @@
+[
+    {
+        "id": 1,
+        "name": "Crown Rockmaster",
+        "price": 100,
+        "image": "/images/rock-master.jpg",
+        "category": "Emulsion Water Based"
+    },
+    {
+        "id": 2,
+        "name": "Crown Ruff n tuff Texture Normal",
+        "price": 100,
+        "image": "/images/crownpaints-rufftuff.jpg",
+        "category": "Emulsion Water Based"
+    },
+    {
+        "id": 3,
+        "name": "Crown Ultraguard Protect Silicon Extreme",
+        "price": 100,
+        "image": "/images/crown-ultraguard-protect-silicone-extreme-290x350.jpg",
+        "category": "Emulsion Water Based"
+    },
+    {
+        "id": 4,
+        "name": "Crown Emulsion Undercoat ext/int",
+        "price": 100,
+        "image": "/images/CROWN-PAINTS-8_0000_emulsion-undercoat-white-290x350.jpg",
+        "category": "Emulsion Water Based"
+    },
+    {
+        "id": 5,
+        "name": "Economy Vesta Plastic",
+        "price": 100,
+        "image": "/images/CROWN-PAINTS-4_0003_vesta-plus-soft-white-290x350.jpg",
+        "category": "Emulsion Water Based"
+    },
+    {
+        "id": 6,
+        "name": "Vinyl Matt Emulsion Luxury",
+        "price": 100,
+        "image": "/images/new-crown-paints-packshots_0001_vinyl-matt-emulsion-luxury-brilliant-white-4l-600x587-290x350.jpg",
+        "category": "Emulsion Water Based"
+    },
+    {
+        "id": 7,
+        "name": "Crown Medicryl Anti-bacterial silk sheen emulsion",
+        "price": 100,
+        "image": "/images/Crown-Medicryl-Anti-Bacterial-Silk-Sheen-Emulsion.jpg",
+        "category": "Emulsion Water Based"
+    },
+    {
+        "id": 8,
+        "name": "Crown Permacote Ultraguard Rain Silicone",
+        "price": 100,
+        "image": "/images/new-crown-paints-packshots_0004_ultraguard-silicone-brilliant-white-4l-290x350.jpg",
+        "category": "Emulsion Water Based"
+    },
+    {
+        "id": 9,
+        "name": "Crown Covermatt Emulsion",
+        "price": 100,
+        "image": "/images/new-crown-paints-packshots_0004_covermatt-white-20l-1-290x350.jpg",
+        "category": "Emulsion Water Based"
+    },
+    {
+        "id": 10,
+        "name": "Crown Permaplast",
+        "price": 100,
+        "image": "/images/new-crown-paints-packshots_0002_permaplast-soft-whtie-4l-600x587-290x350.jpg",
+        "category": "Emulsion Water Based"
+    },
+    {
+        "id": 11,
+        "name": "Crown Transeal Acrylic Clear Finish",
+        "price": 100,
+        "image": "/images/crown-transeal-290x350.png",
+        "category": "Emulsion Water Based"
+    },
+    {
+        "id": 12,
+        "name": "Crown Silk Vinyl Emulsion",
+        "price": 100,
+        "image": "/images/crown-paints_0003_silk-vinyl-emulsion-white-290x350.jpg",
+        "category": "Emulsion Water Based"
+    },
+    {
+        "id": 13,
+        "name": "Vesta Regal Floor Paint",
+        "price": 100,
+        "image": "/images/vesta-regal-floor-paints.png",
+        "category": "Floor Paints"
+    },
+    {
+        "id": 14,
+        "name": "Floor paint Red Oxide",
+        "price": 100,
+        "image": "/images/concrete-floor-paint-red-oxide.jpg",
+        "category": "Floor Paints"
+    },
+    {
+        "id": 15,
+        "name": "Two pack epoxy floor paint",
+        "price": 100,
+        "image": "/images/two pack epoxy floor paint.png",
+        "category": "Floor Paints"
+    },
+    {
+        "id":16 ,
+        "name": "Ngao Gloss Element",
+        "price": 100,
+        "image": "/images/crown-ngao-gloss.jpg",
+        "category": "Gloss / Oil Based Paints"
+    },
+    {
+        "id": 17,
+        "name": "Vesta Regal Undercoat",
+        "price": 100,
+        "image": "/images/vesta-regal-undercoat-white.jpg",
+        "category": "Gloss / Oil Based Paints"
+    },
+    {
+        "id":18 ,
+        "name": "Economy Vesta Gloss",
+        "price": 100,
+        "image": "/images/vesta-gloss-black.jpg",
+        "category": "Gloss / Oil Based Paints"
+    },
+    {
+        "id": 19,
+        "name": "Crown Supergloss",
+        "price": 100,
+        "image": "/images/supergloss-cream.jpg",
+        "category": "Gloss / Oil Based Paints"
+    },
+    {
+        "id":20 ,
+        "name": "Crown Eggshell Finish (Semi-gloss)",
+        "price": 100,
+        "image": "/images/crown-eggshell-finish.png",
+        "category": "Gloss / Oil Based Paints"
+    },
+    {
+        "id": 21,
+        "name": "Roofpaint - Cornflower",
+        "price": 100,
+        "image": "/images/cornflower.jpg",
+        "category": "Roof Paints"
+    },
+    {
+        "id": 22,
+        "name": "Crown Roof Paint",
+        "price": 100,
+        "image": "/images/roofpaint.png",
+        "category": "Roof Paints"
+    },
+    {
+        "id": 23,
+        "name": "Crown Roofshield Self-priming roof paint",
+        "price": 100,
+        "image": "/images/roofshield-self-priming.png",
+        "category": "Roof Paints"
+    },
+    {
+        "id":24,
+        "name": "Crown roofpaint - Red Oxide",
+        "price": 100,
+        "image": "/images/roofpaint-red-oxide.jpg",
+        "category": "Roof Paints"
+    },
+    {
+        "id":25,
+        "name": "Crown roof master self priming acrylic",
+        "price": 100,
+        "image": "/images/roof-master-self-primming.png",
+        "category": "Roof Paints"
+    },
+    {
+        "id":26,
+        "name": "Crown Granite Finish",
+        "price": 100,
+        "image": "/images/granite-finish-paint.jpg",
+        "category": "Textured Finishes Special Effects"
+    },
+    {
+        "id":27,
+        "name": "Crown Italia Primer",
+        "price": 100,
+        "image": "/images/italia primer.png",
+        "category": "Textured Finishes Special Effects"
+    },
+    {
+        "id":28,
+        "name": "Crown Italia Due Decorative Paint",
+        "price": 100,
+        "image": "/images/italia-due-decorative-paint.png",
+        "category": "Textured Finishes Special Effects"
+    },
+    {
+        "id":29,
+        "name": "Italia Uno+ Decorative Paint",
+        "price": 100,
+        "image": "/images/italia-uno-plus.png",
+        "category": "Textured Finishes Special Effects"
+    },
+    {
+        "id":30,
+        "name": "Italia wow Decorative Paint",
+        "price": 100,
+        "image": "/images/italia-wow.png",
+        "category": "Textured Finishes Special Effects"
+    },
+    {
+        "id":31,
+        "name": "Italia Uno Decorative Paint",
+        "price": 100,
+        "image": "/images/italia-uno.png",
+        "category": "Textured Finishes Special Effects"
+    },
+    {
+        "id":32,
+        "name": "Crown Stone Elegance Textured Finish",
+        "price": 100,
+        "image": "/images/stone-elegance.png",
+        "category": "Textured Finishes Special Effects"
+    },
+    {
+        "id":33,
+        "name": "Crown Metallica Special Effect Paint",
+        "price": 100,
+        "image": "/images/crown-metallica.png",
+        "category": "Textured Finishes Special Effects"
+    },
+    {
+        "id":34,
+        "name": "Crown Ruff n Tuff Texture Normal",
+        "price": 100,
+        "image": "/images/ruff-n-tuff-normal-30kg.jpg",
+        "category": "Textured Finishes Special Effects"
+    },
+    {
+        "id":35,
+        "name": "Crown Variations Stone Finish",
+        "price": 100,
+        "image": "/images/stone-finish.png",
+        "category": "Textured Finishes Special Effects"
+    },
+    {
+        "id":36,
+        "name": "Crown Duo Tone Finish",
+        "price": 100,
+        "image": "/images/duotone-white.png",
+        "category": "Textured Finishes Special Effects"
+    },
+    {
+        "id":37,
+        "name": "Crown Rockfast Hi-build Textured Finish",
+        "price": 100,
+        "image": "/images/rockfast.png",
+        "category": "Textured Finishes Special Effects"
+    },
+    {
+        "id":38,
+        "name": "Crown Variations Micallite",
+        "price": 100,
+        "image": "/images/micalite.png",
+        "category": "Textured Finishes Special Effects"
+    },
+    {
+        "id":39,
+        "name": "Crown Variations Opus Finish",
+        "price": 100,
+        "image": "/images/opus finish.png",
+        "category": "Textured Finishes Special Effects"
+    },
+    {
+        "id":40,
+        "name": "Crown Colours Creations Basecoat",
+        "price": 100,
+        "image": "/images/creation-basecoat.png",
+        "category": "Textured Finishes Special Effects"
+    },
+    {
+        "id":41,
+        "name": "Crown Stronghold Textured Emulsion",
+        "price": 100,
+        "image": "/images/stronghold textured emulsion.png",
+        "category": "Textured Finishes Special Effects"
+    },
+    {
+        "id":42,
+        "name": "Crown Timber Master",
+        "price": 100,
+        "image": "/images/Timber-Master.jpg",
+        "category": "Wood Finishes"
+    },
+    {
+        "id":43,
+        "name": "Hymeg AD12 Insulating Varnish",
+        "price": 100,
+        "image": "/images/insulating varnish.png",
+        "category": "Wood Finishes"
+    },
+    {
+        "id":44,
+        "name": "Crown Sanding Sealer",
+        "price": 100,
+        "image": "/images/sanding-sealer.jpg",
+        "category": "Wood Finishes"
+    },
+    {
+        "id":45,
+        "name": "Crown Aquavar Varnish",
+        "price": 100,
+        "image": "/images/aquavar varnish.png",
+        "category": "Wood Finishes"
+    },
+    {
+        "id":46,
+        "name": "Crown Two Pack Epoxy Varnish",
+        "price": 100,
+        "image": "/images/two pack varnish.png",
+        "category": "Wood Finishes"
+    },
+    {
+        "id":47,
+        "name": "Crown Multipurpose Clear Varnish",
+        "price": 100,
+        "image": "/images/multi-purpose-clear.png",
+        "category": "Wood Finishes"
+    },
+    {
+        "id":48,
+        "name": "Crown Two Pack Polyurethane Varnish",
+        "price": 100,
+        "image": "/images/polyurethane.png",
+        "category": "Wood Finishes"
+    },
+    {
+        "id":49,
+        "name": "Crown Polyurethane Finish",
+        "price": 100,
+        "image": "/images/sanding-sealer.jpg",
+        "category": "Wood Finishes"
+    },
+    {
+        "id":50,
+        "name": "Crown Polyurethane clear varnish",
+        "price": 100,
+        "image": "/images/woodseal-clear-varnish.png",
+        "category": "Wood Finishes"
+    },
+    {
+        "id":51,
+        "name": "Crown Oil Varnish Stains",
+        "price": 100,
+        "image": "/images/varnish-stain2.png",
+        "category": "Wood Finishes"
+    } 
+]

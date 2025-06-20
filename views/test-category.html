@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Category - QuickMart</title>
+</head>
+<body>
+    <h1>Test Category Page</h1>
+    <div id="product-container"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const category = 'road-marking-paints'; // Hardcode the category for testing
+            fetchProducts(category);
+        });
+
+        async function fetchProducts(category) {
+            try {
+                const url = `/api/products/category/${category}`;
+                console.log('Fetching products from:', url); // Log the URL
+                const response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch products: ${response.statusText}`);
+                }
+                const products = await response.json();
+                console.log('Fetched products:', products); // Log the fetched products
+                displayProducts(products);
+            } catch (err) {
+                console.error('Error fetching products:', err);
+            }
+        }
+
+        function displayProducts(products) {
+            const productContainer = document.getElementById('product-container');
+            if (!productContainer) {
+                console.error('Product container not found!');
+                return;
+            }
+            productContainer.innerHTML = ''; // Clear existing content
+
+            if (products.length === 0) {
+                productContainer.innerHTML = '<p>No products found.</p>';
+                return;
+            }
+
+            products.forEach(product => {
+                const productCard = `
+                    <div class="product-card">
+                        <div class="product-name">${product.name}</div>
+                        <div class="product-price">$${product.price.toFixed(2)}</div>
+                    </div>
+                `;
+                productContainer.innerHTML += productCard;
+            });
+        }
+    </script>
+</body>
+</html>

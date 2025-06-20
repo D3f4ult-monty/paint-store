@@ -1,0 +1,37 @@
+[
+    {
+        "id":105,
+        "name": "Crown Paint & Varnish Remover",
+        "price": 100,
+        "image": "/images/varnish remover.png",
+        "category": "Thinners"
+    },
+    {
+        "id":106,
+        "name": "Crown Rust Remover",
+        "price": 100,
+        "image": "/images/rust remover.png",
+        "category": "Thinners"
+    },
+    {
+        "id":107,
+        "name": "Crown Thinners",
+        "price": 100,
+        "image": "/images/thinners.png",
+        "category": "Thinners"
+    },
+    {
+        "id":108,
+        "name": "Paint Remover",
+        "price": 100,
+        "image": "/images/remover.jpg",
+        "category": "Thinners"
+    },
+    {
+        "id":109,
+        "name": "Thinner White Spirit",
+        "price": 100,
+        "image": "/images/white spirit.jpg",
+        "category": "Thinners"
+    }
+]

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Category Products - QuickMart</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="logo">
+            <img class="logo-img" src="/images/logo.jpeg" alt="QuickMart Logo">
+        </div>
+        <div class="search-div">
+            <input class="search-bar" type="text" placeholder="" id="search-bar">
+            <div class="search-icon-div">
+                <img class="search-img" src="/images/search-icon.webp" alt="Search">
+            </div>
+        </div>
+        <div class="profile">
+            <div class="profile-img-div">
+                <img class="profile-img" src="/images/profile-icon.webp" alt="Profile">
+            </div>
+            <div class="text">
+                <p class="greetings">
+                    <a href="/login" id="login-link">Login</a>
+                    <span id="user-greeting" style="display: none;"> <span id="username"></span></span>
+                </p>
+            </div>
+        </div>
+        <div class="cart">
+            <a href="/cart">
+                <button class="cart-btn">
+                    <img class="cart-img" src="/images/cart-icon.webp" alt="Cart">
+                    <span>0</span>
+                </button>
+            </a>
+        </div>
+    </header>
+
+    <!-- Product Cards Section -->
+    <div class="product-container"></div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Stores</a></li>
+                    <li><a href="#">Careers</a></li>
+                    <li><a href="#">FAQs</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Contact Us</h4>
+                <p>Email: info@quickmart.co.ke</p>
+                <p>Phone: +254 700 000 000</p>
+                <p>Address: Lucky Summer, Nairobi</p>
+            </div>
+            <div class="footer-section">
+                <h4>Stay Connected</h4>
+                <div class="social-media">
+                    <a href="#"><img src="/images/facebook-icon.webp" alt="Facebook"></a>
+                    <a href="#"><img src="/images/twitter-icon.webp" alt="Twitter"></a>
+                    <a href="#"><img src="/images/instagram-icon.webp" alt="Instagram"></a>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>&copy; 2024 QuickMart. All rights reserved</p>
+            <p>Terms of Service | Privacy Policy</p>
+        </div>
+    </footer>
+
+    <script src="/js/category-products.js"></script>
+</body>
+</html>

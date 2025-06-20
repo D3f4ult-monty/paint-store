@@ -1,0 +1,16 @@
+[
+    {
+        "id":103,
+        "name": "Crown Road Marking",
+        "price": 100,
+        "image": "/images/road-marking.png",
+        "category": "Road Marking Paints"
+    },
+    {
+        "id":104,
+        "name": "Thermoline Road Marking System",
+        "price": 100,
+        "image": "/images/thermoline.png",
+        "category": "Road Marking Paints"
+    }
+]

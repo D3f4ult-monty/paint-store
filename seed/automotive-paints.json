@@ -1,0 +1,23 @@
+[
+    {
+        "id":52,
+        "name": "Duco Body Filler",
+        "price": 100,
+        "image": "/images/duco-body-filler.png",
+        "category": "Automotive Paints"
+    },
+    {
+        "id":53,
+        "name": "Motocryl 2K Acrylic Primer",
+        "price": 100,
+        "image": "/images/motocryl.jpg",
+        "category": "Automotive Paints"
+    },
+    {
+        "id":54,
+        "name": "Nexa Autocolor",
+        "price": 100,
+        "image": "/images/autocolor.png",
+        "category": "Automotive Paints"
+    }
+]

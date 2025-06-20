@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart - QuickMart</title>
+    <link rel="stylesheet" href="/css/cart.css">
+    <script src="https://js.stripe.com/v3/"></script>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="logo">
+            <img class="logo-img" src="/images/logo.jpeg" alt="QuickMart Logo">
+        </div>
+    </header>
+
+    <!-- Cart Page Content -->
+    <div class="cart-page">
+        <!-- Left Side: Products in Cart -->
+        <div class="cart-products">
+            <h2>Your Cart</h2>
+            <!-- Cart items with color selection will be dynamically inserted here -->
+        </div>
+    
+
+        <!-- Right Side: Order Summary -->
+        <div class="order-summary">
+            <h2>Order Summary</h2>
+            <div class="summary-details">
+                <!-- Order summary will be dynamically inserted here -->
+            </div>
+            <button class="checkout-button" onclick="checkout()" id="checkout-button">
+                <span id="checkout-text">Proceed to Checkout</span>
+                <span id="checkout-loading" style="display: none;">Processing...</span>
+            </button>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Stores</a></li>
+                    <li><a href="#">Careers</a></li>
+                    <li><a href="#">FAQs</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Contact Us</h4>
+                <p>Email: info@quickmart.co.ke</p>
+                <p>Phone: +254 700 000 000</p>
+                <p>Address: Lucky Summer, Nairobi</p>
+            </div>
+            <div class="footer-section">
+                <h4>Stay Connected</h4>
+                <div class="social-media">
+                    <a href="#"><img src="/images/facebook-icon.webp" alt="Facebook"></a>
+                    <a href="#"><img src="/images/twitter-icon.webp" alt="Twitter"></a>
+                    <a href="#"><img src="/images/instagram-icon.webp" alt="Instagram"></a>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>&copy; 2024 QuickMart. All rights reserved</p>
+            <p>Terms of Service | Privacy Policy</p>
+        </div>
+    </footer>
+
+    <script src="/js/cart.js"></script>
+</body>
+</html>

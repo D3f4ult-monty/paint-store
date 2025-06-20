@@ -1,0 +1,58 @@
+[
+    {
+        "id":110,
+        "name": "Fevicol 1k Pur",
+        "price": 100,
+        "image": "/images/fevicol-1K-PUR.png",
+        "category": "Adhesives"
+    },
+    {
+        "id":111,
+        "name": "Fevicol CA 777",
+        "price": 100,
+        "image": "/images/fevicol-ca-777.png",
+        "category": "Adhesives"
+    },
+    {
+        "id":112,
+        "name": "Fevicol Hiper",
+        "price": 100,
+        "image": "/images/fevicol-hiper.png",
+        "category": "Adhesives"
+    },
+    {
+        "id":113,
+        "name": "Stronghold Parquet Adhesive",
+        "price": 100,
+        "image": "/images/stronghold-parquet-adhesive.png",
+        "category": "Adhesives"
+    },
+    {
+        "id":114,
+        "name": "Stronghold Tile Adhesive",
+        "price": 100,
+        "image": "/images/tile-adhesive.png",
+        "category": "Adhesives"
+    },
+    {
+        "id":115,
+        "name": "Stronghold Wood Adhesive",
+        "price": 100,
+        "image": "/images/wood-adhesive.png",
+        "category": "Adhesives"
+    },
+    {
+        "id":116,
+        "name": "Wacker CS - Construction Seal 7",
+        "price": 100,
+        "image": "/images/Wacker-2.jpg",
+        "category": "Adhesives"
+    },
+    {
+        "id":117,
+        "name": "Wacker General Sealant - GP",
+        "price": 100,
+        "image": "/images/general sealant.jpg",
+        "category": "Adhesives"
+    }
+]

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QuickMart - Paint Store</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="logo">
+            <img class="logo-img" src="/images/logo.jpeg" alt="QuickMart Logo">
+        </div>
+        <div class="search-div">
+            <input class="search-bar" type="text" placeholder="Search for products..." id="search-bar">
+            <div class="search-icon-div">
+                <img class="search-img" src="/images/search-icon.webp" alt="Search">
+            </div>
+            <!-- Auto-complete dropdown -->
+            <div id="search-results" class="search-results"></div>
+        </div>
+        
+        <div class="profile">
+            <div class="profile-img-div">
+                <img class="profile-img" src="/images/profile-icon.webp" alt="Profile">
+            </div>
+            <div class="text">
+                <p class="greetings">
+                    <a href="/login" id="login-link">Login</a>
+                    <span id="user-greeting" style="display: none;"><span id="username"></span></span>
+                </p>
+            </div>
+            <!-- Dropdown menu -->
+            <div id="dropdown-menu" class="dropdown-menu" style="display: none;">
+                <a href="#" id="logout-link">Logout</a>
+            </div>
+        </div>
+        <div class="cart">
+            <a href="/cart">
+                <button class="cart-btn">
+                    <img class="cart-img" src="/images/cart-icon.webp" alt="Cart">
+                    <span>0</span>
+                </button>
+            </a>
+        </div>
+    </header>
+
+    <!-- Mini Header -->
+    <div class="mini-header">
+        <div class="categories">
+            <div class="hamburger-menu" id="hamburger-menu">
+                <img class="menu-img" src="/images/Hamburger-menu.webp" alt="Menu">
+            </div>
+            <div class="text">All Categories</div>
+        </div>
+         <div class="color-chart-link-container">
+        <a href="https://www.crownpaints.co.ke/colour-chart/" target="_blank" class="color-chart-link">Color Chart</a>
+    </div>
+</div>
+    </div>
+
+    <!-- Banner Section -->
+<div class="banner">
+    <div class="intro">
+        <p>Welcome to the home of affordable paints</p>
+    </div>
+    <img src="https://www.crownpaints.co.ke/wp-content/uploads/2015/11/crown-products-banner-1600x450.jpg" alt="Crown Paints Banner">
+</div>
+
+    <!-- Sidebar -->
+    <div class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <h2>Categories</h2>
+            <span class="close-btn" id="close-btn">&times;</span>
+        </div>
+        <ul class="categories-list">
+            <li>
+                <p class="decorative-paints-category">Decorative Paints</p>
+                <ul class="sub-categories">
+                    <li><a href="#" data-category="Emulsion Water Based">Emulsion Water Based</a></li>
+                    <li><a href="#" data-category="Floor Paints">Floor Paints</a></li>
+                    <li><a href="#" data-category="Gloss / Oil Based Paints">Gloss/Oil Based Paints</a></li>
+                    <li><a href="#" data-category="Roof Paints">Roof Paints</a></li>
+                    <li><a href="#" data-category="Textured Finishes Special Effects">Textured Finished Special Effects</a></li>
+                    <li><a href="#" data-category="Wood Finishes">Wood Finishes</a></li>
+                </ul>
+            </li>
+            <li><a href="#" data-category="Automotive Paints">Automotive Paints</a></li>
+            <li><a href="#" data-category="Industrial Paints">Industrial Paints</a></li>
+            <li>
+                <p class="intermediate-paints-category">Intermediate</p>
+                <ul class="sub-categories">
+                    <li><a href="#" data-category="Polyfilla">Polyfilla</a></li>
+                    <li><a href="#" data-category="Primers">Primers</a></li>
+                    <li><a href="#" data-category="Undercoats">Undercoats</a></li>
+                    <li><a href="#" data-category="Wallcare">Wallcare</a></li>
+                </ul>
+            </li>
+            <li><a href="#" data-category="Road Marking Paints">Road Marking Paints</a></li>
+            <li><a href="#" data-category="Thinners">Thinners</a></li>
+            <li><a href="#" data-category="Adhesives">Adhesives</a></li>
+        </ul>
+    </div>
+
+    <!-- Search Results Heading -->
+    <div id="search-results-heading" class="search-results-heading"></div>
+
+    <!-- Product Cards Section -->
+    <div class="product-container"></div>
+
+    <div id="pagination" class="pagination"></div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Stores</a></li>
+                    <li><a href="#">Careers</a></li>
+                    <li><a href="#">FAQs</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Contact Us</h4>
+                <p>Email: info@quickmart.co.ke</p>
+                <p>Phone: +254 700 000 000</p>
+                <p>Address: Lucky Summer, Nairobi</p>
+            </div>
+            <div class="footer-section">
+                <h4>Stay Connected</h4>
+                <div class="social-media">
+                    <a href="#"><img src="/images/facebook-icon.webp" alt="Facebook"></a>
+                    <a href="#"><img src="/images/twitter-icon.webp" alt="Twitter"></a>
+                    <a href="#"><img src="/images/instagram-icon.webp" alt="Instagram"></a>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>&copy; 2024 QuickMart. All rights reserved</p>
+            <p>Terms of Service | Privacy Policy</p>
+        </div>
+    </footer>
+
+    <script src="/js/home.js"></script>
+
+    <!-- Bottom Navigation Bar -->
+<div class="bottom-nav">
+    <a href="/" class="nav-icon">
+        <img src="/images/house_icon.png" alt="Home">
+        <span>Home</span>
+    </a>
+    <a href="#" class="nav-icon" id="mobile-menu-button">
+        <img src="/images/menu_icon_132743.png" alt="Menu">
+        <span>Categories</span>
+    </a>
+    <a href="/login" class="nav-icon">
+        <img src="/images/profile-icon.webp" alt="Account">
+        <span>Account</span>
+    </a>
+    <a href="/cart" class="nav-icon">
+        <img src="/images/cart-icon.webp" alt="Cart">
+        <span>Cart</span>
+    </a>
+</div>
+</body>
+</html>

@@ -1,0 +1,121 @@
+[
+    {
+        "id":55,
+        "name": "Black Bituminous Paint",
+        "price": 100,
+        "image": "/images/black-bituminous.png",
+        "category": "Industrial Paints"
+    },
+    {
+        "id":56,
+        "name": "Bondcrete",
+        "price": 100,
+        "image": "/images/bondcrete.png",
+        "category": "Industrial Paints"
+    },
+    {
+        "id":57,
+        "name": "Crown Acrylic Tennis Court Paint",
+        "price": 100,
+        "image": "/images/tennis-court-paint.png",
+        "category": "Industrial Paints"
+    },
+    {
+        "id":58,
+        "name": "Crown Aluminium Paint",
+        "price": 100,
+        "image": "/images/aluminium-paint.png",
+        "category": "Industrial Paints"
+    },
+    {
+        "id":59,
+        "name": "Crown Bituminous Aluminium",
+        "price": 100,
+        "image": "/images/bituminous-aluminium.png",
+        "category": "Industrial Paints"
+    },
+    {
+        "id":60,
+        "name": "Crown Chlorinated Rubber Paint Thinner",
+        "price": 100,
+        "image": "/images/chlorinated-rubber-paint.png",
+        "category": "Industrial Paints"
+    },
+    {
+        "id":61,
+        "name": "Crown Fungicidal Wash",
+        "price": 100,
+        "image": "/images/fungicidal-wash.png",
+        "category": "Industrial Paints"
+    },
+    {
+        "id":62,
+        "name": "Crown GP Matt Finish",
+        "price": 100,
+        "image": "/images/GP Matt finish.png",
+        "category": "Industrial Paints"
+    },
+    {
+        "id":63,
+        "name": "Crown Metal Putty",
+        "price": 100,
+        "image": "/images/metal-puty.png",
+        "category": "Industrial Paints"
+    },
+    {
+        "id":64,
+        "name": "Crown Mordant Solution / Passivating wash",
+        "price": 100,
+        "image": "/images/mordant-solution.png",
+        "category": "Industrial Paints"
+    },
+    {
+        "id":65,
+        "name": "Crown Silicone Waterproofing Solution",
+        "price": 100,
+        "image": "/images/silicone-water-proofing.png",
+        "category": "Industrial Paints"
+    },
+    {
+        "id":66,
+        "name": "Crown Squash Court Paint",
+        "price": 100,
+        "image": "/images/squash-court-paint.png",
+        "category": "Industrial Paints"
+    },
+    {
+        "id":67,
+        "name": "Crown Two Pack Epoxy Enamel",
+        "price": 100,
+        "image": "/images/epoxy-enamel.png",
+        "category": "Industrial Paints"
+    },
+    {
+        "id":68,
+        "name": "Heat Resisting Aluminium Paint",
+        "price": 100,
+        "image": "/images/heat-resisting-aluminium.png",
+        "category": "Industrial Paints"
+    },
+    {
+        "id":69,
+        "name": "Okay Putty",
+        "price": 100,
+        "image": "/images/okay-putty.png",
+        "category": "Industrial Paints"
+    },
+    {
+        "id":70,
+        "name": "School Board Paint",
+        "price": 100,
+        "image": "/images/school-board-paint.png",
+        "category": "Industrial Paints"
+    },
+    {
+        "id":80,
+        "name": "Crown Two Pack Epoxy Coal Tar Composition",
+        "price": 100,
+        "image": "/images/coal-tar-composition.png",
+        "category": "Industrial Paints"
+    }
+]

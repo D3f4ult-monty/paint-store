@@ -1,0 +1,156 @@
+[
+    {
+        "id":81,
+        "name": "Crown Gyplast",
+        "price": 100,
+        "image": "/images/gyplast.png",
+        "category": "Polyfilla"
+    },
+    {
+        "id":82,
+        "name": "Crown Polyfilla",
+        "price": 100,
+        "image": "/images/polyfilla.png",
+        "category": "Polyfilla"
+    },
+    {
+        "id":83,
+        "name": "Vesta Regal Metal Primer",
+        "price": 100,
+        "image": "/images/vesta-regal-metal-primer.png",
+        "category": "Primers"
+    },
+    {
+        "id":84,
+        "name": "Crown Solo Plus 3 Masonary Primer",
+        "price": 100,
+        "image": "/images/solo plus 3.png",
+        "category": "Primers"
+    },
+    {
+        "id":85,
+        "name": "Crown Aluminium Wood Primer",
+        "price": 100,
+        "image": "/images/aluminium wood primer.png",
+        "category": "Primers"
+    },
+    {
+        "id":86,
+        "name": "Crown Zinc Phosphate Metal Primer",
+        "price": 100,
+        "image": "/images/zinc-chromate-metal-primer.png",
+        "category": "Primers"
+    },
+    {
+        "id":87,
+        "name": "Crown Two Pack Epoxy Zinc Rich Primer",
+        "price": 100,
+        "image": "/images/zinc rich primer.png",
+        "category": "Primers"
+    },
+    {
+        "id":88,
+        "name": "Crown Two Pack Epoxy Zinc Chromate",
+        "price": 100,
+        "image": "/images/zinc-chromate-metal-primer.png",
+        "category": "Primers"
+    },
+    {
+        "id":89,
+        "name": "Crown Two Pack Epoxy Zinc Phosphate",
+        "price": 100,
+        "image": "/images/zinc-phosphate-primer-grey.jpg",
+        "category": "Primers"
+    },
+    {
+        "id":90,
+        "name": "Crown Alkali Resisting Chlorinated Rubber",
+        "price": 100,
+        "image": "/images/alkali resisting chlorinated rubber.png",
+        "category": "Primers"
+    },
+    {
+        "id":91,
+        "name": "Chrown Zinc Chromate Metal Primer",
+        "price": 100,
+        "image": "/images/zinc-chromate-metal-primer.png",
+        "category": "Primers"
+    },
+    {
+        "id":92,
+        "name": "Red Oxide(Pre-Fab) Primer Matt Finish",
+        "price": 100,
+        "image": "/images/primer matt finish.png",
+        "category": "Primers"
+    },
+    {
+        "id":93,
+        "name": "Red Oxide(Pre-Fab) Primer/Finish Glossy",
+        "price": 100,
+        "image": "/images/primer gloss.png",
+        "category": "Primers"
+    },
+    {
+        "id":94,
+        "name": "One Pack Etch Primer(Wash Primer)",
+        "price": 100,
+        "image": "/images/one pack etch primer.png",
+        "category": "Primers"
+    },
+    {
+        "id":95,
+        "name": "Crown Universal Alkiali-Resisting Wall Primer",
+        "price": 100,
+        "image": "/images/wall primer.png",
+        "category": "Primers"
+    },
+    {
+        "id":96,
+        "name": "Crown Penetrating Primer",
+        "price": 100,
+        "image": "/images/penetrating-primer.png",
+        "category": "Primers"
+    },
+    {
+        "id":97,
+        "name": "Crown White Wood Primer",
+        "price": 100,
+        "image": "/images/white-wood-primer.png",
+        "category": "Primers"
+    },
+    {
+        "id":98,
+        "name": "Vesta Regal Emulsion Undercoat",
+        "price": 100,
+        "image": "/images/emulsion-undercoat.png",
+        "category": "Undercoats"
+    },
+    {
+        "id":99,
+        "name": "Crown Acrylic Primer/Sealer Undercoat",
+        "price": 100,
+        "image": "/images/acrylic-primer.png",
+        "category": "Undercoats"
+    },
+    {
+        "id":100,
+        "name": "Crown Undercoat",
+        "price": 100,
+        "image": "/images/undercoat.png",
+        "category": "Undercoats"
+    },
+    {
+        "id":101,
+        "name": "Wallplast Cement Putty 25KG",
+        "price": 100,
+        "image": "/images/wallplast cement putty.jpg",
+        "category": "Wallcare"
+    },
+    {
+        "id":102,
+        "name": "Crown WallCare",
+        "price": 100,
+        "image": "/images/wallcare.png",
+        "category": "Wallcare"
+    }
+]
